@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TouristRegistryApplication<touristregistry>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.touristregistry.TouristRegistryApplication",
+            "projectName": "touristregistry",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
